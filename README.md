@@ -1,5 +1,7 @@
 # freebeam
-Freebeam pattern conversion software for the EBPG
+Freebeam pattern conversion software for the 
+Raith EBPG e-beam lithography system.
+
 Starting from a CAD file in GDS format, Freebeam
 produces fractured polygons in gpf format. Polygons
 work only on the newer UPG pattern generators, not
